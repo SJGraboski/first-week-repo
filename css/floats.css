@@ -58,10 +58,8 @@ aside {
 	background-color: #fff;
 	width: 33%;
 	height: 260px;
-	position: relative;
-	overflow: hidden;
-	top: -170px;
-	left: 20px;
+	float: left;
+	margin-left: 30px;
 }
 
 footer {
